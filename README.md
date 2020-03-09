@@ -4,7 +4,7 @@
 #### 3. I hope information available on this repository will be useful for  beginner's as well as for Pro's sometimes.<br>
 #### 4. I am little bit experienced in (coding,development) etc. i studied mardown recentely so sorry for any mistakes.<br>
 #### 5. Try to keep contest month order ascending(jan,feb,march...) if u know the dates.
-#### 6.Happy coding:)
+#### 6. Happy coding:)
 |Serial-no.| Topic | link |
 |:----:|:----:| :----: |
 |1. |Coding-competition|[link](coding-competition.md) |
