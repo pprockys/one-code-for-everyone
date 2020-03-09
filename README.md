@@ -1,1 +1,1 @@
-## <p align="center"><social/></p>
+## <p align="center">-social-</p>
