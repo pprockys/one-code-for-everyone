@@ -5,8 +5,8 @@
 4.I am beginner in almost every field (Coding,Github,Development) and i studied mardown recentely so sorry for any mistakes.<br>
 |Serial-no.| Topic | link |
 |:----:|:----:| :----: |
-|1. |Coding-cometition|[link](hackathon.md) |
-|2. |Hackathon| |
-|3. |Campus-ambassador| |
-|4. |Coding-clubs-in-india| |
-|5. |Miscellaneous| |
+|1. |Coding-competition|[link](coding-competition.md) |
+|2. |Hackathon| [link](hackathon.md)|
+|3. |Campus-ambassador| [link](campus-ambassador.md)|
+|4. |Coding-clubs-in-india| [link](coding-clubs-in-india.md)|
+|5. |Miscellaneous|[link](miscellaneous.md) |
