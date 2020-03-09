@@ -1,3 +1,4 @@
+## <p align="center">Coding-competition</p>
 |Serial-no.| Competition Name | Expected month |Team|Multiround|Platform|Link|
 |:----:|:----:| :----: | :----:|:----:|:----:|:----:|
 |1. |Hash-code|February |Yes|Yes|Google-judge|[link](https://codingcompetitions.withgoogle.com/hashcode)|
@@ -10,4 +11,4 @@
 |8.|Circuit-challenges|Every-month|No|No|Hackerearth|[link](https://www.hackerearth.com/challenges/)|
 |9.|Short-round's|Avg.(Every 5 day)|No|No|Codeforces|[link](https://codeforces.com/)|
 |10.|Hackwithinfy|-|-|-|-|[link](https://www.infosys.com/careers/hackwithinfy.html)|
-|11.|CTL-CUP|-|-|-|[link](https://www.ctlindore.in/ctl-cup)|
+|11.|CTL-CUP|-|-|-|-|[link](https://www.ctlindore.in/ctl-cup)|
