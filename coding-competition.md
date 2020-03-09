@@ -1,5 +1,5 @@
 |Serial-no.| Competition Name | Expected month |Team|Multiround|Link|
 |:----:|:----:| :----: | :----:|:----:|:----:|
-|1. |Hash-code|February. |[link](https://codingcompetitions.withgoogle.com/hashcode)|Yes|Yes|
-|2.|Code-jam|April.|[link](https://codingcompetitions.withgoogle.com/codejam)|No|Yes|
-|3.|Kick-start|April.|[link](https://codingcompetitions.withgoogle.com/kickstart)|No|Yes|
+|1. |Hash-code|February. |Yes|Yes|[link](https://codingcompetitions.withgoogle.com/hashcode)|
+|2.|Code-jam|April.|No|Yes|[link](https://codingcompetitions.withgoogle.com/codejam)|
+|3.|Kick-start|April.|No|Yes|[link](https://codingcompetitions.withgoogle.com/kickstart)|
