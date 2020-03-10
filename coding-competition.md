@@ -14,3 +14,4 @@
 |11.|CTL-CUP|-|-|-|-|[link](https://www.ctlindore.in/ctl-cup)|
 |12.|Snack-down|-|Yes|Yes|Codechef|[link](https://www.codechef.com/)|
 |13.|ACM-ICPC|-|Yes|Yes|Multiple|[link](https://icpc.baylor.edu/)|
+|14.|Code Vita|-|No|Yes|-|[link](https://www.tcscodevita.com/CodevitaV8/index.jsp)|
